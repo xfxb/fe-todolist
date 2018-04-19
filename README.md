@@ -21,6 +21,10 @@
 - 手势识别 hammer.js AlloyFinger [细节讲解][1]
 - 动效 ant-motion react-motion
 
+## 文档
+基于markdown 写组件文档，然后生成html文档。
+使用 [docsearch][3] 做文档全局搜索，使用hexo搭建文档服务（ vue官网文档服务基于hexo搭建的）
+
 ## 测试
 
 - 单元测试
@@ -30,3 +34,4 @@
 
 [1]:https://juejin.im/post/57b074fda633bd0057035b6d
 [2]:https://zhuanlan.zhihu.com/p/29996622 "浅谈前后端分离与实践"
+[3]:https://github.com/algolia/docsearch "docsearch"
