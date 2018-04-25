@@ -27,6 +27,14 @@
 基于markdown 写组件文档，然后生成html文档。
 使用 [docsearch][3] 做文档全局搜索，使用hexo/netlify/jekyllrb/surge.sh/搭建文档服务（ vue官网文档服务基于hexo搭建的）
 
+## 客户端错误跟踪上报
+
+TrackJs
+
+## 视觉规范
+
+[WeUI-Design][4]
+
 ## 测试
 
 - 单元测试
@@ -37,3 +45,5 @@
 [1]:https://juejin.im/post/57b074fda633bd0057035b6d
 [2]:https://zhuanlan.zhihu.com/p/29996622 "浅谈前后端分离与实践"
 [3]:https://github.com/algolia/docsearch "docsearch"
+
+[4]:https://github.com/weui/weui-design "微信视觉规范"
