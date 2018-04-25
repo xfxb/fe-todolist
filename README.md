@@ -12,7 +12,7 @@
 
 - 代码拆分-code split
 - 热模块替换-hot module replacement
-- 服务端渲染-server side render 
+- 服务端渲染-server side render
 - 模拟数据-mock data
 - 单元测试- unit test
 
@@ -22,8 +22,9 @@
 - 动效 ant-motion react-motion
 
 ## 文档
+
 基于markdown 写组件文档，然后生成html文档。
-使用 [docsearch][3] 做文档全局搜索，使用hexo搭建文档服务（ vue官网文档服务基于hexo搭建的）
+使用 [docsearch][3] 做文档全局搜索，使用hexo/netlify/jekyllrb/surge.sh/搭建文档服务（ vue官网文档服务基于hexo搭建的）
 
 ## 测试
 
