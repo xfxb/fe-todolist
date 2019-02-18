@@ -5,6 +5,7 @@
 前端定位不仅局限于web前端，而是一个大前端的概念。技术涉及：
 
 - web技术栈
+- 移动原生开发(flutter)
 - 混合开发(hybrid)
 - 桌面应用（基于web技术）
 - 虚拟现实/现实增强（vr/ar）
@@ -42,8 +43,16 @@ TrackJs
 - 端对端测试：功能测试亦称为端到端测试, 属于灰盒测试
 - 集成持续测试 wallabyjs
 
+## 软件
+
+- vscode
+- chrome
+- nginx
+- docker
+
 
 [1]:https://juejin.im/post/57b074fda633bd0057035b6d
 [2]:https://zhuanlan.zhihu.com/p/29996622 "浅谈前后端分离与实践"
 [3]:https://github.com/algolia/docsearch "docsearch"
 [4]:https://github.com/weui/weui-design "微信视觉规范"
+[5]:https://github.com/joeyguo/noerror "noerror-上报错前后台实现"
